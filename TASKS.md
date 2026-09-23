@@ -9,4 +9,4 @@ gh issue list --repo FreeTWAI-AI/video-autopilot-kit --state open --json number,
 gh issue view 1 --repo FreeTWAI-AI/video-autopilot-kit --json title,body,comments,assignees
 ```
 
-第一輪有測試素材、檢查工具、字幕／配樂擴充、共同推廣四個方向。每張 Issue 已列範圍、完成條件、驗證方式與需要的角色。先留言協調，再用自己的分支提 PR；這些任務還在待認領，不是完成成果。
+第一輪有測試素材、檢查工具、字幕／配樂擴充、共同推廣與 Pillow 依賴修復五個方向。每張 Issue 已列範圍、完成條件、驗證方式與需要的角色。先留言協調，再用自己的分支提 PR；這些任務還在待認領，不是完成成果。

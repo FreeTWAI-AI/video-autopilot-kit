@@ -41,6 +41,16 @@
         "sales",
         "documentation"
       ]
+    },
+    {
+      "number": 5,
+      "title": "修復 Pillow 已知依賴告警並驗證影音相容性",
+      "url": "https://github.com/FreeTWAI-AI/video-autopilot-kit/issues/5",
+      "roles": [
+        "security",
+        "development",
+        "testing"
+      ]
     }
   ]
 }
