@@ -1,5 +1,21 @@
 # 🎬 video-autopilot-kit
 
+<!-- freedom-repository-guide:start -->
+## 在自由工坊的位置
+
+[自由工坊](https://freetwai.com) 讓會員先完成定位、選擇公會並領取 Repo 技能書，再以供貨、商店、開源作品、行銷與小隊共同完成成果。
+
+媒體自動化公會的剪輯框架與第一個公開共創試點。 保留 Hao 的 Editkin v4 流程、素材／QA 工具、範例，以及工坊 Issue／PR 任務入口。
+
+工坊 fork 尚未因此完成新的剪輯功能、啟用自動發布或取得真人收入；上游 release 的聲明不自動成為此 fork 的驗證。
+
+工坊 Fork：上游產品／授權來源為 [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)；本次協作的 Issue／PR 送到 **FreeTWAI-AI/video-autopilot-kit**，不是自動送往上游。
+
+程式／內容入口：[src/](src/)、[scripts/](scripts/)、[examples/](examples/)、[templates/](templates/)、[TASKS.md](TASKS.md)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI-AI/video-autopilot-kit/issues)認領、[查看既有 PR](https://github.com/FreeTWAI-AI/video-autopilot-kit/pulls)避免重工。
+
+保留 Editkin v4 runtime 與上游署名。私人 profiles、config.py、原始媒體與後台數據留在使用者本機。中央只索引公開 repo／Issue／merged PR，不接收影片工作資料。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI-AI/freedom-platform)維護。
+<!-- freedom-repository-guide:end -->
+
 ## 自由工坊共創入口
 
 這是 [Hao 原始專案](https://github.com/Hao0321/video-autopilot-kit) 的工坊共創 Fork，保留上游程式與授權。
