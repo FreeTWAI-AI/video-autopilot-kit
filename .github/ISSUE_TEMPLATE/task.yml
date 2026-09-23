@@ -39,7 +39,7 @@ body:
       label: 驗證方式
       description: 列出測試命令或人工核對步驟；指令仍需先閱讀與確認，不會由此表單自動執行。
       placeholder: |
-        本模板程式修改：npm test、npm run build
+        本 repo 依修改範圍選擇：python src/system_health.py --quick 或相關 example／契約測試
         本任務另外需要的步驟與預期結果：……
     validations:
       required: true
