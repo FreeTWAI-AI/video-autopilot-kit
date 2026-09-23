@@ -1,5 +1,10 @@
 # 🎬 video-autopilot-kit
 
+## 自由工坊共創入口
+
+這是 [Hao 原始專案](https://github.com/Hao0321/video-autopilot-kit) 的工坊共創 Fork，保留上游程式與授權。
+從 [任務清單](TASKS.md) 選一刀，依 [貢獻流程](CONTRIBUTING.md) 留言認領、開分支、提 PR；讓自己的 Agent 先讀 [AGENTS.md](AGENTS.md)。本次只建立共創工作方式，尚未宣稱完成新剪輯功能或有人取得收入。
+
 > Current version: v0.23.0
 >
 > **v0.23.0／架構 7.0**：長片／Shorts／Reels 共用自研 composition runtime、Imagegen-first 材質閘門、證據式電影工藝、統一濾鏡庫與唯一發布中樞；
